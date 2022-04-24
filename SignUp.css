@@ -1,0 +1,31 @@
+#Navbar{
+    display: flex;
+    flex-direction: row;
+   background-color: aqua;
+  
+    justify-content: right;
+    padding:10px;
+}
+#Navbar div{
+   margin: 20px;
+}
+#Sign_up{
+    display: flex;
+    flex-direction: column;
+    width:30%;
+    margin: auto;
+    margin-top: 10%;
+
+}
+input{
+    padding: 4%;
+    margin: 2%;
+}
+form{
+    background-color: white;
+    border: 1px solid black;
+    padding: 50px;
+}
+form h1{
+   text-align: center;
+}

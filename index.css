@@ -1,0 +1,15 @@
+ #Navbar{
+     display: flex;
+     flex-direction: row;
+    background-color: aqua;
+   
+     justify-content: right;
+     padding:10px;
+ }
+ #Navbar div{
+    margin: 20px;
+ }
+ #slideshow img{
+    height: 500px;
+    width: 500px;
+ }
